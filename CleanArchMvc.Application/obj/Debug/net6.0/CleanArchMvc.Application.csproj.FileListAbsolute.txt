@@ -1,0 +1,15 @@
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.deps.json
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.dll
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.pdb
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Domain.dll
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.AssemblyInfo.cs
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.CopyComplete
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.dll
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\refint\CleanArchMvc.Application.dll
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.pdb
+C:\Estudos\csharp\CleanArchitecture\CleanArch_net6\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\ref\CleanArchMvc.Application.dll
